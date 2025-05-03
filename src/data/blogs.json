@@ -1,0 +1,51 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Advances in Heart Disease Prevention",
+      "date": "2024-01-15",
+      "author": "Dr. Jefferson George",
+      "summary": "Latest research and recommendations for preventing heart disease through lifestyle modifications and early intervention.",
+      "content": "Heart disease remains one of the leading causes of mortality worldwide. In this blog post, we explore the latest evidence-based strategies for heart disease prevention, including dietary recommendations, exercise guidelines, and risk factor management.",
+      "tags": ["prevention", "heart disease", "lifestyle", "cardiology"],
+      "category": "Preventive Cardiology",
+      "readTime": "5 minutes",
+      "imageUrl": "/images/blog/heart-prevention.jpg",
+      "references": [
+        {
+          "title": "American Heart Association Guidelines 2024",
+          "url": "https://example.com/aha-guidelines"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Understanding Modern Cardiac Imaging Techniques",
+      "date": "2024-01-10",
+      "author": "Dr. Jefferson George",
+      "summary": "An overview of current cardiac imaging technologies and their role in diagnosis.",
+      "content": "Modern cardiac imaging has revolutionized how we diagnose and treat heart conditions. This post discusses various imaging techniques including CT, MRI, and nuclear imaging, their applications, and benefits.",
+      "tags": ["cardiac imaging", "diagnosis", "technology", "cardiology"],
+      "category": "Cardiac Imaging",
+      "readTime": "7 minutes",
+      "imageUrl": "/images/blog/cardiac-imaging.jpg",
+      "references": [
+        {
+          "title": "Journal of Cardiovascular Imaging 2024",
+          "url": "https://example.com/imaging-journal"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Preventive Cardiology",
+    "Cardiac Imaging",
+    "Heart Failure",
+    "Interventional Cardiology",
+    "Research Updates"
+  ],
+  "metadata": {
+    "totalPosts": 2,
+    "lastUpdated": "2024-01-15"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "personalInfo": {
+    "name": "Dr. Jefferson George",
+    "title": "Cardiology Specialist",
+    "profileImage": "/images/doctor-profile.jpg",
+    "summary": "Leading cardiologist with over 15 years of experience in interventional cardiology and heart disease prevention.",
+    "education": [
+      {
+        "degree": "Doctor of Medicine",
+        "institution": "Harvard Medical School",
+        "year": 2005
+      },
+      {
+        "degree": "Cardiology Fellowship",
+        "institution": "Mayo Clinic",
+        "year": 2010
+      }
+    ],
+    "contact": {
+      "email": "Dr. Jefferso George@example.com",
+      "phone": "+1 (555) 123-4567",
+      "office": "123 Medical Center Drive, Suite 100, Boston, MA 02115"
+    }
+  },
+  "experience": [
+    {
+      "position": "Senior Cardiologist",
+      "institution": "Boston Heart Center",
+      "period": "2015 - Present",
+      "description": "Leading the interventional cardiology department and performing complex cardiac procedures."
+    },
+    {
+      "position": "Consultant Cardiologist",
+      "institution": "Massachusetts General Hospital",
+      "period": "2010 - 2015",
+      "description": "Specialized in non-invasive cardiology and cardiac imaging."
+    }
+  ],
+  "accolades": [
+    {
+      "title": "Excellence in Cardiology Award",
+      "organization": "American Heart Association",
+      "year": 2020,
+      "description": "Recognized for outstanding contributions to cardiovascular medicine."
+    },
+    {
+      "title": "International Research Fellowship",
+      "organization": "European Society of Cardiology",
+      "year": 2018,
+      "description": "Selected for advanced research in preventive cardiology."
+    }
+  ],
+  "publications": [
+    {
+      "title": "New Frontiers in Interventional Cardiology",
+      "journal": "Journal of American College of Cardiology",
+      "year": 2021,
+      "impact": "Cited by over 200 researchers worldwide"
+    }
+  ],
+  "specializations": [
+    "Interventional Cardiology",
+    "Preventive Cardiology",
+    "Cardiac Imaging",
+    "Heart Failure Management"
+  ],
+  "siteInfo": {
+    "created": "2024",
+    "lastUpdated": "2024-01",
+    "maintainedBy": "Gautam wise",
+    "version": "1.0.0"
+  }
+}
